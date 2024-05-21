@@ -1,6 +1,6 @@
 # SecretScanner
 
-[![Documentation](https://img.shields.io/badge/documentation-read-green)](https://community.khulnasoft.io/docs/secretscanner/)
+[![Documentation](https://img.shields.io/badge/documentation-read-green)](https://community.khulnasoft.com/docs/secretscanner/)
 [![GitHub license](https://img.shields.io/github/license/khulnasoft/SecretScanner)](https://github.com/khulnasoft-lab/SecretScanner/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/khulnasoft/SecretScanner)](https://github.com/khulnasoft-lab/SecretScanner/stargazers)
 [![Hacktoberfest](https://img.shields.io/github/hacktoberfest/2022/khulnasoft/SecretScanner)](https://github.com/khulnasoft-lab/SecretScanner/issues)
@@ -32,7 +32,7 @@ Use SecretScanner if you need a lightweight, efficient method to scan container 
 
 ## Quick Start
 
-For full instructions, refer to the [SecretScanner Documentation](https://community.khulnasoft.io/docs/secretscanner/).
+For full instructions, refer to the [SecretScanner Documentation](https://community.khulnasoft.com/docs/secretscanner/).
 
 ![SecretScanner QuickStart](docs/docs/secretscanner/img/secretscanner.svg)
 
@@ -67,15 +67,15 @@ We have built upon the configuration file from [shhgit](https://github.com/eth0i
 
 Thank you for using SecretScanner.
 
- * [<img src="https://img.shields.io/badge/documentation-read-green">](https://community.khulnasoft.io/docs/secretscanner/) Start with the documentation
+ * [<img src="https://img.shields.io/badge/documentation-read-green">](https://community.khulnasoft.com/docs/secretscanner/) Start with the documentation
  * [<img src="https://img.shields.io/badge/slack-@khulnasoft-blue.svg?logo=slack">](https://join.slack.com/t/khulnasoft-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ) Got a question, need some help?  Find the Khulnasoft team on Slack
  * [![GitHub issues](https://img.shields.io/github/issues/khulnasoft/SecretScanner)](https://github.com/khulnasoft-lab/SecretScanner/issues) Got a feature request or found a bug? Raise an issue
- * [productsecurity *at* khulnasoft *dot* io](SECURITY.md): Found a security issue? Share it in confidence
- * Find out more at [khulnasoft.io](https://khulnasoft.io/)
+ * [productsecurity *at* khulnasoft *dot* com](SECURITY.md): Found a security issue? Share it in confidence
+ * Find out more at [khulnasoft.com](https://khulnasoft.com/)
 
 ## Security and Support
 
-For any security-related issues in the SecretScanner project, contact [productsecurity *at* khulnasoft *dot* io](SECURITY.md).
+For any security-related issues in the SecretScanner project, contact [productsecurity *at* khulnasoft *dot* com](SECURITY.md).
 
 Please file GitHub issues as needed, and join the Khulnasoft Community [Slack channel](https://join.slack.com/t/khulnasoft-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ).
 

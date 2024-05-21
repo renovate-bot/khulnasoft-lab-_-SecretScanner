@@ -65,8 +65,8 @@ const config = {
             label: 'SecretScanner Documentation',
           },
           { 
-            to: 'https://khulnasoft.io/',
-            label: 'khulnasoft.io',
+            to: 'https://khulnasoft.com/',
+            label: 'khulnasoft.com',
             position: 'right',
           },
           {

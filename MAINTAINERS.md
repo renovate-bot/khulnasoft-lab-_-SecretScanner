@@ -2,9 +2,9 @@
 
 | Name              | Email                     | Khulnasoft Community Slack | GitHub                                               | Company   |
 |-------------------|---------------------------|---------------------------|------------------------------------------------------|-----------|
-| Ramanan Ravikumar | ramanan@khulnasoft.io      | `@Ramanan`                | [@ramanan-ravi](https://github.com/ramanan-ravi)     | Khulnasoft |
-| Saurabh Kumar     | saurabh@khulnasoft.io      | `@Saurabh`                | [@saurabh2253](https://github.com/saurabh2253)       | Khulnasoft |
-| Harshvardhan Karn | harshvardhan@khulnasoft.io | `@harsh`                  | [@ibreakthecloud](https://github.com/ibreakthecloud) | Khulnasoft |               |                      |                           |                                                   |           |
+| Ramanan Ravikumar | ramanan@khulnasoft.com      | `@Ramanan`                | [@ramanan-ravi](https://github.com/ramanan-ravi)     | Khulnasoft |
+| Saurabh Kumar     | saurabh@khulnasoft.com      | `@Saurabh`                | [@saurabh2253](https://github.com/saurabh2253)       | Khulnasoft |
+| Harshvardhan Karn | harshvardhan@khulnasoft.com | `@harsh`                  | [@ibreakthecloud](https://github.com/ibreakthecloud) | Khulnasoft |               |                      |                           |                                                   |           |
 
 Please reach any of the maintainers on slack (#community-support on https://khulnasoft-community.slack.com) or email if you want to help.
 
