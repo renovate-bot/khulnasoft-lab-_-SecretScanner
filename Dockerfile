@@ -3,7 +3,7 @@ ARG VECTORSCAN_IMAGE_REPOSITORY=khulnasoft
 FROM $VECTORSCAN_IMAGE_REPOSITORY/khulnasoft_vectorscan_build:$VECTORSCAN_IMG_TAG AS vectorscan
 
 FROM golang:1.20-alpine3.18 AS builder
-MAINTAINER DeepFence
+MAINTAINER KhulnaSoft
 
 RUN apk update  \
     && apk add --upgrade gcc musl-dev pkgconfig g++ make git
@@ -17,7 +17,7 @@ RUN make clean
 RUN make
 
 FROM alpine:3.18
-MAINTAINER DeepFence
+MAINTAINER KhulnaSoft
 LABEL khulnasoft.role=system
 
 ENV MGMT_CONSOLE_URL=khulnasoft-internal-router \

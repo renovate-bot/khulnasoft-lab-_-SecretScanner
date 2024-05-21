@@ -16,7 +16,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/deepfence/vessel"
+	"github.com/khulnasoft-lab/vessel"
 	"github.com/khulnasoft-lab/SecretScanner/core"
 	"github.com/khulnasoft-lab/SecretScanner/output"
 	"github.com/khulnasoft-lab/SecretScanner/signature"
