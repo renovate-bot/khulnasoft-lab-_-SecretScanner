@@ -54,6 +54,8 @@ github.com/felixge/httpsnoop v1.0.4 h1:NFTV2Zj1bL4mc9sqWACXbQFVBBg2W3GPvqp8/ESS2
 github.com/felixge/httpsnoop v1.0.4/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/flier/gohs v1.2.2 h1:v1Pmzvv/PgYoJhmOHadKjKr0wpudb20WcF1ZF0miiM8=
 github.com/flier/gohs v1.2.2/go.mod h1:YZaZuBeDNoFW94B4j+YFo7Lv3XlkwNm9vsOvk0E3kgY=
+github.com/flier/gohs v1.2.3 h1:GlsPhGTLfhLFQ6ZzNbXojyzIADldmC5OPGcvNd1Pteo=
+github.com/flier/gohs v1.2.3/go.mod h1:MJr+IUI8QKDiE8lrDE4OhA++wRctvD9+UQB6GbOXf1c=
 github.com/go-logr/logr v1.2.2/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
 github.com/go-logr/logr v1.4.1 h1:pKouT5E8xu9zeFC39JXRDukb6JFQPXM5p5I91188VAQ=
 github.com/go-logr/logr v1.4.1/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
